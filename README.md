@@ -4,7 +4,7 @@
 
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/0/01/Matrixcode.gif' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-miljan-moldovan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miljan-moldovan-/)](https://www.linkedin.com/in/miljan-moldovan-/) [![Gmail Badge](https://img.shields.io/badge/-miljan.moldovan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miljan.moldovan@gmail.com)](mailto:miljan.moldovan@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-miljan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miljan-moldovan-/)](https://www.linkedin.com/in/miljan-moldovan-/) [![Gmail Badge](https://img.shields.io/badge/-miljan.moldovan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miljan.moldovan@gmail.com)](mailto:miljan.moldovan@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miljan-moldovan" alt="miljan-moldovan" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't</div>
