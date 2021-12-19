@@ -10,13 +10,14 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't</div>
 
 ## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
-* Frontend and Backend Web Development
+- Language: Javascript / Typescript / PHP
+- Front End: React / Vue.js / Angular / Laravel
+- Back End: Node / Nest.js / Laravel / Django
+- Mobile: React Native / Flutter
+- Other: AWS, Firebase, GraphQl, Tailwind CSS
 
 ## Programming Languages
-<img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/oUH9hNy.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
