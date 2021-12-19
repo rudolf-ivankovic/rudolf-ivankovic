@@ -17,11 +17,11 @@
 - Other: AWS, Firebase, GraphQl, Tailwind CSS
 
 ## Programming Languages
-<img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/oUH9hNy.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/1184px-Vue.js_Logo_2.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/react.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/nodejs.svg' width='40'/>
  <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/react-native-logo.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/1200px-Laravel.png' height='40'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/800px-Nextjs-logo.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/nuxt.png' width='30'/> <img src = 'https://github.com/miljan-moldovan/miljan-moldovan/blob/master/images/Tailwind_CSS_Logo.png' width='33'/>
  
  ## Who am I?
  ```python
@@ -35,5 +35,5 @@
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on 🔭 building **the Web Application using Next.js + Tailwind CSS + Storybook** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
