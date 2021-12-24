@@ -39,7 +39,7 @@
  ```python
  class WhoAmI:
  	user = 'Miljan Moldovan'
-		current_edu = "Warsaw University Of Technology"
+		education = "Warsaw University Of Technology"
 	
 	def getCity():
 		return Warsaw, Masovian()
