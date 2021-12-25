@@ -1,11 +1,11 @@
-## Hey, Miljan here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, Rudolf here!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <h1>Welcome to my Digital World</h1> 
 
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/0/01/Matrixcode.gif' align='right'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-miljan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miljan-moldovan-/)](https://www.linkedin.com/in/miljan-moldovan-/) [![Gmail Badge](https://img.shields.io/badge/-miljan.moldovan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miljan.moldovan@gmail.com)](mailto:miljan.moldovan@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miljan-moldovan" alt="miljan-moldovan" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-rudolf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rudolf-l-ivankovic-)](https://www.linkedin.com/in/rudolf-l-ivankovic-) [![Gmail Badge](https://img.shields.io/badge/-ivankovicrudolf12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ivankovicrudolf12@gmail.com)](mailto:ivankovicrudolf12@gmail.com) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudolf-ivankovic" alt="rudolf-ivankovic" /> </p>
 
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't</div>
 
@@ -18,31 +18,17 @@
 
 ## Programming Languages and Technologies I Use
 <p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<table>  <tr>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>  </tr>  <tr>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>    <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>  </tr></table>
     </p>
  
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Miljan Moldovan'
-		education = "Warsaw University Of Technology"
+ 	user = 'Rudolf Ivankovic'
+		education = "RIT Croatia"
 	
 	def getCity():
-		return Warsaw, Masovian()
+		return Karlovac_Croatia()
 	
  ```
  
