@@ -16,11 +16,16 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Experienced and detail-oriented Web & Mobile App Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently.
-Have 8 years of experience as a Full Stack Developer, specializedin Modern JS and PHP frameworks.
+Experienced and detail-oriented Web & Mobile App Developer with a knack for conceptualizing and delivering elegant, user- friendly solutions effectively and efficiently.<br><br>
 
-Love to collaborate with team actively, eager to take a challenge with new technologies and Having creative collaboration.
+My name is Rudolf, and I have a passion for solving problems by breaking down complex issues into a number of isolated, solvable issues. <br>
+I have experience in JavaScript, React, Vue, Node.js, Laravel, Tailwind CSS, GraphQL, Firebase, AWS, React Native, and Flutter. <br>
+Over the course of my career, I’ve done extensive work in enhancing the efficiency, scalability, and performance of various business web properties.<br><br>
 
+Over the years, I have learned communication is a key element in client success. <br>
+I work closely with each client for the duration of our project starting with a consultation. <br>
+Together we can clarify and define our project scope, saving us time in the long run. <br>
+You can also expect detailed status updates as I keep you in the loop every step of the way.
 </details> 
 
 <details>
