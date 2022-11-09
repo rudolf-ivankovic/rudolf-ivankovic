@@ -1,6 +1,3 @@
-### Hi
-
-
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
