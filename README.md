@@ -1,16 +1,5 @@
-### Hi there <a href="https://rudolf-ivankovic.web.app"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi
 
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Type of functions with Javascript and Typescript](https://rudolf-ivankovic.web.app/single-blog.html)
-- [Read this and learn Typescript](https://rudolf-ivankovic.web.app/single-blog2.html)
-- [Vue.js type of components and how to use them](https://rudolf-ivankovic.web.app/single-blog3.html)
-<!-- BLOG-POST-LIST:END -->
-
-🔗 &nbsp;**Connect with me**
-<p align="left">
-<a href="https://www.linkedin.com/in/rudolf-l-ivankovic-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudolf-ivankovic" height="30" width="40" /></a><a href="mailto:ivankovicrudolf12@gmail.com"><img align="center" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="rudolf-ivankovic" height="30" width="30" style="margin-left: 5px"/></a>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
